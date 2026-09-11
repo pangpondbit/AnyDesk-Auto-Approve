@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnyDesk Auto Approve</string>
+    <string name="accessibility_service_name">บริการอนุมัติ AnyDesk อัตโนมัติ (Auto Approve)</string>
+    <string name="accessibility_service_description">บริการนี้จะคอยตรวจจับป๊อปอัป AnyDesk หรือระบบแชร์หน้าจอเพื่อคลิกเลือก \"แชร์ทั้งหน้าจอ\" และกดปุ่ม \"แชร์หน้าจอ\" ให้โดยอัตโนมัติ</string>
+</resources>

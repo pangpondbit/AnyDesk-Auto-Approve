@@ -1,0 +1,6 @@
+{
+  "name": "AnyDesk Auto Approve",
+  "description": "แอพช่วยคลิกอนุมัติการควบคุมและแชร์หน้าจอ AnyDesk อัตโนมัติ (เลือกแชร์ทั้งหน้าจอ + กดแชร์หน้าจอ)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
